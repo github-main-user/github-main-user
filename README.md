@@ -9,10 +9,10 @@
 - Люблю чистый код и понятную архитектуру
 
 ## Мои навыки
-- Языки: Python, JavaScript (базовый)
-- Базы данных: PostgreSQL, SQLite
+- Языки: Python, JavaScript (базовый), C/C++ (базовый)
+- Базы данных: PostgreSQL, SQLite, Redis
 - Фреймворки: Django, DRF, FaskAPI (базовый)
-- Технологии: REST API, Docker, Docker compose, Redis, Celery, Git, Linux (i use arch btw)
+- Технологии: REST API, Docker, Docker compose, Celery, RabbitMQ, Git, Linux (i use arch btw)
 
 ## Проекты
 
