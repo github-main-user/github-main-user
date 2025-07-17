@@ -12,7 +12,7 @@
 - Языки: Python, JavaScript (базовый)
 - Базы данных: PostgreSQL, SQLite
 - Фреймворки: Django, DRF, FaskAPI (базовый)
-- Технологии: REST API, Docker, Docker compose, Redis, Celery, Git, Linux (i use arch btw), 
+- Технологии: REST API, Docker, Docker compose, Redis, Celery, Git, Linux (i use arch btw)
 
 ## Проекты
 
@@ -25,5 +25,5 @@
 - Переодически делаю контрибьют в OSS, здесь например поправил документацию одного из проектов facebook -> https://github.com/facebook/pyrefly/pull/423
 
 ## Связаться со мной
-- Telegram: [@userdev](https://t.me/HuKoJlauu)
+- Telegram: [@HuKoJlauu](https://t.me/HuKoJlauu)
 - Email: kolya.skripn@mail.ru
