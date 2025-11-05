@@ -2,7 +2,7 @@
 $ whoami
 
 name: Nikolai
-role: Python Backend Developer
+role: Python Developer
 system: Arch (btw)
 email: kolya.skripn@mail.ru
 telegram: @HuKoJlauu
